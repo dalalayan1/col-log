@@ -1,5 +1,5 @@
 {
-  "name": "color-logger",
+  "name": "col-log",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -17,9 +17,9 @@
   "author": "Ayan Dalal <dalalayan1@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dalalayan1/color-logger/issues"
+    "url": "https://github.com/dalalayan1/col-log/issues"
   },
-  "homepage": "https://github.com/dalalayan1/color-logger#readme",
+  "homepage": "https://github.com/dalalayan1/col-log#readme",
   "dependencies": {
     "chalk": "^2.3.0"
   }
