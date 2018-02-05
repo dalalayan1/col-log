@@ -16,6 +16,10 @@
   ],
   "author": "Ayan Dalal <dalalayan1@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dalalayan1/color-logger/issues"
+  },
+  "homepage": "https://github.com/dalalayan1/color-logger#readme",
   "dependencies": {
     "chalk": "^2.3.0"
   }
