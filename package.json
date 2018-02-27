@@ -1,6 +1,6 @@
 {
   "name": "col-log",
-  "version": "0.0.5",
+  "version": "0.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,10 @@
   ],
   "author": "Ayan Dalal <dalalayan1@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalalayan1/col-log.git"
+  },
   "bugs": {
     "url": "https://github.com/dalalayan1/col-log/issues"
   },
